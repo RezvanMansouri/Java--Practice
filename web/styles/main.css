@@ -1,0 +1,84 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12-Feb-2022, 1:48:37 PM
+    Author     : Rezvan
+*/
+html{
+    background-color: blanchedalmond;
+}
+img{
+     float:left;
+     padding-left:40px; 
+     padding-right: 100px;
+}
+nav {
+ 
+  border-bottom: solid orange;
+  border-top: solid orange;
+  margin-top: 80px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 1150px;
+  
+}
+
+nav > a {
+  font-size:larger;
+  font-weight: bold;
+  color: green;
+  display: inline-block;
+  margin: 5px 5px 5px 5px;
+  
+}
+#title1{
+    color: orange;
+    font-weight: bold;
+}
+#title2{
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+}
+body{
+    border: solid black;
+    background-color: white;
+    margin: 30px;
+    
+}
+section{
+    padding: 30px;
+    margin-left: 50px; 
+}
+
+
+footer{
+     border-top: solid orange;    
+     margin:30px;
+     padding-top: 20px;
+     
+}
+#foot{
+   float: right;
+}
+
+.space {
+    font-weight: bolder;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.tableStyle{
+    font-size: 150%;
+}
+td{
+    padding: 5px;
+}
+.inputStyle{
+   height:25px;
+   font-size: 60%;
+}
+p{
+    font-size: 140%;
+}
